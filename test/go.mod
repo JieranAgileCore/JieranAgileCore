@@ -1,0 +1,105 @@
+module test
+
+go 1.17
+
+require (
+	git.cs.nctu.edu.tw/calee/sctp v1.1.0
+	github.com/antihax/optional v1.0.0
+	github.com/calee0219/fatal v0.0.1
+	github.com/davecgh/go-spew v1.1.1
+	github.com/JieranAgileCore/amf v0.0.0
+	github.com/JieranAgileCore/aper v1.0.5-0.20230614030933-c73735898582
+	github.com/JieranAgileCore/ausf v0.0.0
+	github.com/JieranAgileCore/n3iwf v0.0.0
+	github.com/JieranAgileCore/nas v1.1.2-0.20230828074825-175b09665828
+	github.com/JieranAgileCore/ngap v1.0.7-0.20230614061954-9c128114ab1f
+	github.com/JieranAgileCore/nrf v0.0.0
+	github.com/JieranAgileCore/nssf v0.0.0
+	github.com/JieranAgileCore/openapi v1.0.7-0.20230802173229-2b3ded4db293
+	github.com/JieranAgileCore/pcf v0.0.0
+	github.com/JieranAgileCore/smf v0.0.0
+	github.com/JieranAgileCore/udm v0.0.0
+	github.com/JieranAgileCore/udr v0.0.0
+	github.com/JieranAgileCore/util v1.0.5-0.20231001095115-433858e5be94
+	github.com/gin-gonic/gin v1.9.1
+	github.com/go-ping/ping v0.0.0-20210506233800-ff8be3320020
+	github.com/google/uuid v1.3.0
+	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
+	github.com/stretchr/testify v1.8.3
+	github.com/urfave/cli v1.22.5
+	github.com/vishvananda/netlink v1.1.0
+	go.mongodb.org/mongo-driver v1.8.4
+	golang.org/x/net v0.17.0
+	golang.org/x/sys v0.13.0
+	gopkg.in/yaml.v2 v2.4.0
+)
+
+require (
+	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
+	github.com/antonfisher/nested-logrus-formatter v1.3.1 // indirect
+	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
+	github.com/bronze1man/radius v0.0.0-20190516032554-afd8baec892d // indirect
+	github.com/bytedance/sonic v1.9.1 // indirect
+	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
+	github.com/cydev/zero v0.0.0-20160322155811-4a4535dd56e7 // indirect
+	github.com/evanphx/json-patch v0.5.2 // indirect
+	github.com/JieranAgileCore/pfcp v1.0.6 // indirect
+	github.com/JieranAgileCore/tlv v1.0.2-0.20230131124215-8b6ebd69bf93 // indirect
+	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
+	github.com/gin-contrib/cors v1.3.1 // indirect
+	github.com/gin-contrib/sse v0.1.0 // indirect
+	github.com/go-playground/locales v0.14.1 // indirect
+	github.com/go-playground/universal-translator v0.18.1 // indirect
+	github.com/go-playground/validator/v10 v10.14.0 // indirect
+	github.com/go-stack/stack v1.8.0 // indirect
+	github.com/goccy/go-json v0.10.2 // indirect
+	github.com/golang-jwt/jwt v3.2.1+incompatible // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/snappy v0.0.1 // indirect
+	github.com/google/gopacket v1.1.19 // indirect
+	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
+	github.com/klauspost/compress v1.13.6 // indirect
+	github.com/klauspost/cpuid/v2 v2.2.4 // indirect
+	github.com/leodido/go-urn v1.2.4 // indirect
+	github.com/mattn/go-isatty v0.0.19 // indirect
+	github.com/mitchellh/mapstructure v1.4.3 // indirect
+	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
+	github.com/pelletier/go-toml/v2 v2.0.8 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/russross/blackfriday/v2 v2.1.0 // indirect
+	github.com/sirupsen/logrus v1.8.1 // indirect
+	github.com/tim-ywliu/nested-logrus-formatter v1.3.2 // indirect
+	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
+	github.com/ugorji/go/codec v1.2.11 // indirect
+	github.com/vishvananda/netns v0.0.0-20211101163701-50045581ed74 // indirect
+	github.com/wmnsk/go-gtp v0.8.0 // indirect
+	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
+	github.com/xdg-go/scram v1.0.2 // indirect
+	github.com/xdg-go/stringprep v1.0.2 // indirect
+	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
+	golang.org/x/arch v0.3.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
+	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
+	google.golang.org/appengine v1.6.7 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
+	gopkg.in/h2non/gock.v1 v1.1.2 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
+
+replace (
+	github.com/JieranAgileCore/amf => ../NFs/amf
+	github.com/JieranAgileCore/ausf => ../NFs/ausf
+	github.com/JieranAgileCore/n3iwf => ../NFs/n3iwf
+	github.com/JieranAgileCore/nrf => ../NFs/nrf
+	github.com/JieranAgileCore/nssf => ../NFs/nssf
+	github.com/JieranAgileCore/pcf => ../NFs/pcf
+	github.com/JieranAgileCore/smf => ../NFs/smf
+	github.com/JieranAgileCore/udm => ../NFs/udm
+	github.com/JieranAgileCore/udr => ../NFs/udr
+)

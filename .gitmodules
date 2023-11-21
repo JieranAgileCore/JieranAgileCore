@@ -1,0 +1,36 @@
+[submodule "amf"]
+	path = NFs/amf
+	url = https://github.com/JieranAgileCore/amf.git
+[submodule "ausf"]
+	path = NFs/ausf
+	url = https://github.com/JieranAgileCore/ausf.git
+[submodule "n3iwf"]
+	path = NFs/n3iwf
+	url = https://github.com/JieranAgileCore/n3iwf.git
+[submodule "nrf"]
+	path = NFs/nrf
+	url = https://github.com/JieranAgileCore/nrf.git
+[submodule "nssf"]
+	path = NFs/nssf
+	url = https://github.com/JieranAgileCore/nssf.git
+[submodule "pcf"]
+	path = NFs/pcf
+	url = https://github.com/JieranAgileCore/pcf.git
+[submodule "smf"]
+	path = NFs/smf
+	url = https://github.com/JieranAgileCore/smf.git
+[submodule "udm"]
+	path = NFs/udm
+	url = https://github.com/JieranAgileCore/udm.git
+[submodule "udr"]
+	path = NFs/udr
+	url = https://github.com/JieranAgileCore/udr.git
+[submodule "upf"]
+	path = NFs/upf
+	url = https://github.com/JieranAgileCore/go-upf.git
+[submodule "webconsole"]
+	path = webconsole
+	url = https://github.com/JieranAgileCore/webconsole.git
+[submodule "chf"]
+	path = NFs/chf
+	url = https://github.com/JieranAgileCore/chf.git
